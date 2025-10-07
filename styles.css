@@ -41,7 +41,7 @@ h1 {
 
 .specialcard {
     -webkit-box-shadow: 6px 6px 12px -5px rgba(255, 0, 0, 1);
-    -moz-box-shadow: 6px 6px 12px -5px rgba(255, 0, 0, 1
+    -moz-box-shadow: 6px 6px 12px -5px rgba(255, 0, 0, 1);
     box-shadow: 6px 6px 12px -5px rgba(255, 0, 0, 1);
 }
 
@@ -74,3 +74,4 @@ a {
     font-weight: 700;
 
 }
+
